@@ -7,7 +7,7 @@ function Projects() {
       <div className="project-card">
         <h2>Dog voice Translation</h2>
         <p>A deep learning model made using convolutional neural networks.</p>
-        <a href="https://github.com/yourusername/project1" target="_blank" rel="noreferrer">
+        <a href="https://github.com/akshara-parkibanda/Dog-voice-translation" target="_blank" rel="noreferrer">
           View on GitHub
         </a>
       </div>
@@ -23,7 +23,7 @@ function Projects() {
       <div className="project-card">
   <h2>Banquet Hall Booking System</h2>
   <p>Its an online system used to book banquet halls for any occasion , its made using react,mySQL,Java.</p>
-  <a href="https://github.com/yourusername/project3" target="_blank" rel="noreferrer">
+  <a href="https://github.com/pranavrajivreddy/Banquet-Hall-Booking-Sytem" target="_blank" rel="noreferrer">
     View on GitHub
   </a>
 </div>
